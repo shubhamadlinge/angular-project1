@@ -5,6 +5,6 @@ This project contains the frontend and the backend with name conventions angualr
 ---
 - 🔹 [Frontend Repo](https://github.com/shubhamadlinge/angularjava-frontend)
 - 🔹 [Backend Repo](https://github.com/shubhamadlinge/angularjava-backend)
-- 🔹 [Infrastructure Repo](https://github.com/shubhamadlinge/project-infra)
+- 🔹 [Infrastructure Repo](https://github.com/shubhamadlinge/angularjava-infra)
 
 ---
